@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @semarendeci
 - 👀 I’m newbie for software development
-- 🌱 I’m currently learning javascript and sql
+- 🌱 I’m currently learning HTML and SQL
 - 📫 You can contact me via email: semarendeci@gmail.com!
 
 <!---
